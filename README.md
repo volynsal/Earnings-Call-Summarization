@@ -1,2 +1,2 @@
 # Earnings-Call-Summarization
-Earnings Call Summarization using OpenAI
+Earnings Call Summarization using OpenAI and pastebin
